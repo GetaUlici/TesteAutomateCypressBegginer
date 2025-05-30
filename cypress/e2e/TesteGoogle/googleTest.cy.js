@@ -19,8 +19,4 @@ describe('Site Google.com', () => {
     it('verific o valoare din input', () => {
 
     })
-    // this is a Github/sourcetree test
-    //this is a git terminal commands test
-    // test
-    // adi test
 })
