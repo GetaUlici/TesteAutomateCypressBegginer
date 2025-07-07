@@ -12,7 +12,4 @@ describe('Site Google.com', () => {
         cy.screenshot(); 
     })
 
-    // it('verific o valoare din input', () => {
-
-    // })
 })
